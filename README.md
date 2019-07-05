@@ -1,5 +1,5 @@
 # One Pixel Attack
-## Prof. Shir Ali Shahreza
+## Dr. Shir Ali Shahreza
 ### Student: Mohammad Salimi
 
 
